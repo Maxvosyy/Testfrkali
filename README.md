@@ -3,7 +3,7 @@
 - ⚡ I’m 16 years old
 - 🌱 I’m currently learning Rust 
 - 💻 My favorite langs are Java and Python
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to play Minecraft :V
 
 <!---
